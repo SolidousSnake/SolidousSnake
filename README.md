@@ -50,5 +50,3 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/DependencyInversion)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-timkochenov@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timkochenov@gmail.com)
-
