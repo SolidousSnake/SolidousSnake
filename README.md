@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi! I'm Unity Developer
+
+## Technology stack
+
+![Static Badge](https://img.shields.io/badge/csharp-black)
+
+
+## Contact me
+
 
 <!--
 **SolidousSnake/SolidousSnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
