@@ -44,9 +44,5 @@
 <p>
   
   <img height=160 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula&hide_border=true" />
+
 </p>
-
-### Contact me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/DependencyInversion)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
