@@ -34,12 +34,8 @@
 <p></p>
 
 
-![UniTask](https://img.shields.io/badge/-UniTask-grey?style=for-the-badge&logo=unitask)   
-![UniRx](https://img.shields.io/badge/-UniRx-grey?style=for-the-badge&logo=unirx)        
-![Zenject](https://img.shields.io/badge/-Zenject-grey?style=for-the-badge&logo=zenject)
-![VContainer](https://img.shields.io/badge/-VContainer-grey?style=for-the-badge&logo=vcontainer)
-![Odin](https://img.shields.io/badge/-Odin-grey?style=for-the-badge)
-![Addressables](https://img.shields.io/badge/-Addressables-grey?style=for-the-badge&logo=Addressables)
+![UniTask](https://img.shields.io/badge/-UniTask-grey?style=for-the-badge&logo=unitask) ![UniRx](https://img.shields.io/badge/-UniRx-grey?style=for-the-badge&logo=unirx)        ![Odin](https://img.shields.io/badge/-Odin-grey?style=for-the-badge)
+![Zenject](https://img.shields.io/badge/-Zenject-grey?style=for-the-badge&logo=zenject) ![VContainer](https://img.shields.io/badge/-VContainer-grey?style=for-the-badge&logo=vcontainer) ![Addressables](https://img.shields.io/badge/-Addressables-grey?style=for-the-badge&logo=Addressables)
 
 
 
