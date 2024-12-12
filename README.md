@@ -34,15 +34,9 @@
 <p></p>
 
 
-![UniTask](https://img.shields.io/badge/-UniTask-grey?style=for-the-badge&logo=unitask) ![UniRx](https://img.shields.io/badge/-UniRx-grey?style=for-the-badge&logo=unirx)        ![Odin](https://img.shields.io/badge/-Odin-grey?style=for-the-badge)
-![Zenject](https://img.shields.io/badge/-Zenject-grey?style=for-the-badge&logo=zenject) ![VContainer](https://img.shields.io/badge/-VContainer-grey?style=for-the-badge&logo=vcontainer) ![Addressables](https://img.shields.io/badge/-Addressables-grey?style=for-the-badge&logo=Addressables)
-
-
-
-  ## :hammer_and_wrench: Language Stats
-
-<p>
-  
-  <img height=160 align="center" src="https://github-readme-stats-qw1nt.vercel.app/api/top-langs/?username=Qw1nt&layout=compact&theme=dracula&hide_border=true" />
-
-</p>
+![UniTask](https://img.shields.io/badge/-UniTask-grey?style=for-the-badge&logo=unitask) 
+![UniRx](https://img.shields.io/badge/-UniRx-grey?style=for-the-badge&logo=unirx)       
+ ![Odin](https://img.shields.io/badge/-Odin-grey?style=for-the-badge)
+![Zenject](https://img.shields.io/badge/-Zenject-grey?style=for-the-badge&logo=zenject)
+ ![VContainer](https://img.shields.io/badge/-VContainer-grey?style=for-the-badge&logo=vcontainer) 
+ ![Addressables](https://img.shields.io/badge/-Addressables-grey?style=for-the-badge&logo=Addressables)
