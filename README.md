@@ -1,8 +1,5 @@
 ## Hi! I'm .NET developer
 
-[![CV](https://img.shields.io/badge/-My_CV-090909?style=for-the-badge&logo=GoogleMessages)](https://drive.google.com/file/d/1tssrhQJka2W_MXHs3yTVEvCf-_G2sqC-/view?usp=drive_link)
-
-
 ## 🔧 Technology Stack
 
  <a href="https://www.jetbrains.com/trial-start/?build=2023300&product=RD" target="_blank" rel="noreferrer">
