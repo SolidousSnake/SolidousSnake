@@ -36,7 +36,6 @@
 
 ![UniTask](https://img.shields.io/badge/-UniTask-grey?style=for-the-badge&logo=unitask) 
 ![UniRx](https://img.shields.io/badge/-UniRx-grey?style=for-the-badge&logo=unirx)
-![UniRx](https://img.shields.io/badge/-UniRx-grey?style=for-the-badge&logo=unirx) 
 ![Odin](https://img.shields.io/badge/-Odin-grey?style=for-the-badge)
 ![Zenject](https://img.shields.io/badge/-Zenject-grey?style=for-the-badge&logo=zenject)
 ![VContainer](https://img.shields.io/badge/-VContainer-grey?style=for-the-badge&logo=vcontainer) 
