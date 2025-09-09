@@ -28,8 +28,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> 
   </a>   
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="css3" width="45" height="45"/> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="css3" width="45" height="45"/> 
   </a>  
 
 <br><br>
