@@ -29,13 +29,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> 
   </a>   
    <a href="https://sass-lang.com/styleguide/brand/" target="_blank" rel="noreferrer">
-    <img src="https://www.vhv.rs/dpng/d/140-1407237_sass-logo-svg-hd-png-download.png" alt="sass" width="55" height="55"/> 
+    <img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" alt="sass" width="55" height="55"/> 
   </a>   
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="45" height="45"/> 
   </a>  
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" alt="vue3" width="45" height="45"/> 
+    <img src="https://masteringjs.io/assets/images/vue/vue-transparent.png" alt="vue3" width="45" height="45"/> 
   </a> 
 
 <br><br>
