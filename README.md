@@ -35,7 +35,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="45" height="45"/> 
   </a>  
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://masteringjs.io/assets/images/vue/vue-transparent.png" alt="vue3" width="45" height="45"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue3" width="45" height="45"/> 
   </a> 
 
 <br><br>
